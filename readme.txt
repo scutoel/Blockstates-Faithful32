@@ -2,6 +2,7 @@
 
 
 -Block States
+Wooferscoots
 
 mr_ch0c0late
 Curse Forge: 		https://www.curseforge.com/members/mr_ch0c0late1
@@ -14,9 +15,27 @@ Reddit: 			https://www.reddit.com/user/Zartrix
 
 Vanillatweaks: https://vanillatweaks.net/
 
--Noteblock
-...
-...
-..
+-Textures
+Wooferscoots
+HARAG0N_MC  
+Alexsor
+DMgaming
+Aerod
+Nyodex
+EachMenderKhai
+Hozz
+Max_Vovik
+jogurciQ
+Pomi108
+LethalChicken
+Pythagoras_314
+coyo_t
+Cituation
+Nyodex
+Fred figglehorn
+okDiamond
+Evorp
+Fractalis
 
-add textures i used from faith
+
+
