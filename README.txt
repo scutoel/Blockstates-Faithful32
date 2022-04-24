@@ -1,3 +1,5 @@
+# Summary
+Shows blockstates (age, honey level, pitch, power level, etc.) of various blocks
 # Features
 -Bamboo                (State 0/1)
 -Sapplings             (Stage 0/1)
@@ -35,25 +37,14 @@
 -Dispensors need a block update to display theyre powered or not
 
 # Credit
-
-
 -Block States
 Wooferscoots
-
-mr_ch0c0late
-Curse Forge: 		https://www.curseforge.com/members/mr_ch0c0late1
-Planet Minecraft: 	https://www.planetminecraft.com/member/mr_ch0c0late1/
-Twitter: 			https://twitter.com/mr_ch0c0late1
-
-Curse Forge:		https://www.curseforge.com/members/zartrix
-Planet Minecraft: 	https://www.planetminecraft.com/member/zartrix/
-Reddit: 			https://www.reddit.com/user/Zartrix
-
-Vanillatweaks: https://vanillatweaks.net/
+WeNAN Studios
+Vanillatweaks: https://vanillatweaks.net
 
 -Textures
 Wooferscoots
-HARAG0N_MC  
+HARAG0N_MC
 Alexsor
 DMgaming
 Aerod
@@ -72,6 +63,15 @@ Fred figglehorn
 okDiamond
 Evorp
 Fractalis
+# Images
+only a preview refer to features list for all changes!
 
-
-
+![1](https://i.imgur.com/MWwntob.jpg)
+![1](https://i.imgur.com/ERREQeO.jpg)
+![1](https://i.imgur.com/sIEtM8g.jpg)
+![1](https://i.imgur.com/HH9tq5p.jpg)
+![1](https://i.imgur.com/5enyGMG.jpg)
+![1](https://i.imgur.com/6WdPuhv.jpg)
+![1](https://i.imgur.com/fqLuaky.jpg)
+![1](https://i.imgur.com/I7pBUV2.jpg)
+![1](https://i.imgur.com/iK54vKm.jpg)
