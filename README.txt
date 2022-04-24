@@ -28,6 +28,8 @@
 -Noteblock             (Pitch)
 -Kelp                  (Level <24/25)
 
+[Testing Map](https://www.planetminecraft.com/project/blockstate-testing-map/)
+
 # Known Issues
 -Sodium will effect sugarcane growth stage and sometimes display level 0 on lower levels at certain angles
 -Dispensors need a block update to display theyre powered or not
