@@ -1,4 +1,4 @@
-# [Credit]
+# Credit
 
 
 -Block States
