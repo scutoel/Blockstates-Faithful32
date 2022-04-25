@@ -51,7 +51,7 @@ Aerod
 Nyodex
 EachMenderKhai
 Hozz
-Max_Vovik
+max_novik
 jogurciQ
 Pomi108
 LethalChicken
