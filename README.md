@@ -29,6 +29,7 @@ Shows blockstates (age, honey level, pitch, power level, etc.) of various blocks
 -Jukebox               (Record/NoRecord)\
 -Noteblock             (Pitch)\
 -Kelp                  (Level <24/25)\
+-Sculk Sensor          (Power 1-15)\
 
 [Testing Map](https://www.planetminecraft.com/project/blockstate-testing-map/)
 
